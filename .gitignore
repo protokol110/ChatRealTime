@@ -1,0 +1,10 @@
+/frontend/xd/node_modules
+ /frontend/xd/build
+ /frontend/xd/.DS_Store
+ /frontend/xd/.env.local
+ /frontend/xd/.env.development.local
+ /frontend/xd/.env.test.local
+ /frontend/xd/.env.production.local
+
+ /frontend/xd/paclage-lock.json
+ .idea
